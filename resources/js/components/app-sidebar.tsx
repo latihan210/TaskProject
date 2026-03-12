@@ -24,12 +24,12 @@ const mainNavItems: NavItem[] = [
     },
     {
         title: 'Lists',
-        href: lists(),
+        href: '#',
         icon: ClipboardList,
     },
     {
         title: 'Tasks',
-        href: tasks(),
+        href: '#',
         icon: ListTodo,
     },
 ];
